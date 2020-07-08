@@ -1,0 +1,161 @@
+/* --------------------- Resuable-code start------------------ */
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.heading-color{    
+    color: #413960;
+}
+.padding-75{
+    padding: 75px 0;
+}
+p{
+    color: #585859;
+}
+.green-button{
+    color: white;
+    background: #21B573;
+    padding: 12px 28px;
+    border: 1px solid #21B573;
+    border-radius: 33px;
+    cursor: pointer;
+    transition: .3s;
+}
+.green-button:hover{
+    border: 1px solid #21B573;
+    color:#21B573;
+    background-color: white;
+}
+.green-small-button{
+    padding: 7px 28px;
+    width: 137px;
+    height: 35px;
+}
+
+/* --------------------- Resuable-code end ------------------ */
+/* --------------------- Navigation-area start ------------------ */
+.nav-text{    
+    font-weight: 500;
+    font-size: 22px;
+}
+.navigation-area, .navigation-bg {
+    background-color:#F0FFF0 !important;
+}
+.logo{
+    width: 198px;
+    height: 59px;
+}
+/* --------------------- Navigation-area end ------------------ */
+/* --------------------- Top-Banner-area start ------------------ */
+.top-banner{
+    background-color: #F0FFF0 ;
+}
+.orange-highlight{
+    line-height: 24px;
+    color: #FD511A;
+}
+.green-highlight{
+    color:#21B573;
+}
+.banner-content{
+    border: none;
+    background-color: #F0FFF0 ;
+    height: 400px;
+}
+.banner-heading{
+    font-size: 48px;
+    font-weight: 700;    
+    line-height: 70px;
+}
+.banner-paragraph{
+    line-height: 36px;
+    color: #6C6B6B;
+}
+/* --------------------- Top-Banner-area end------------------ */
+/* ------------------ Books-area Start ------------------- */
+.single-book{
+    width: 250px;
+    height: 250px;
+    border: none;
+    background: #e6ffe6;
+    border-radius: 10px;
+    transition: .5s;
+}
+.single-book:hover{    
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.2);
+}
+.single-book-img{
+    width: 70px;
+    height: 90px;
+}
+.single-book-article h5{
+    font-size: 24px;
+    line-height: 36px;
+}
+/* ------------------ Books-area end ------------------- */
+/* -------------------- Courses-area Start --------------------- */
+.small-icon{
+    width: 24px;
+    height: 24px;
+}
+.courses-card{
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.2);
+    border-radius: 18px;
+}
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
+.course-img{
+    width: 331px;
+    height: 234px;
+}
+/* -------------------- Courses-area end --------------------- */
+/* -------------------- Testimonial-area Start --------------------- */
+.single-testimonial{
+    width: 790px;
+    height: 160px;
+    padding: 15px;
+    box-shadow: 0px 5px 41px #c7c5c5;
+    border-radius: 15px;
+}
+.single-testimonial img{
+    width: 120px;
+    height: 120px;
+    padding: 8px;
+    border: 2px solid #ded8d8;
+    border-radius: 50%;
+}
+.single-testimonial p{
+    line-height: 30px;
+    color: black;
+}
+/* -------------------- Testimonial-area End --------------------- */
+/* ------------------- Form-area start------------------ */
+.form-area{
+    background-color:#F0FFF0 ;
+}
+.form-boundary{
+    width: 800px;
+    padding: 15px;
+}
+/* ------------------- Form-area End------------------ */
+/* ------------------- Footer-area start------------------ */
+.footer-area{
+    color: white;
+    background-color: #282531;
+}
+.list-group-item {
+    padding: 5px;
+    background-color: #282531;
+    border: none;
+}
+.list-group-item-action{
+    color: #fff;
+}
+.footer-area p{
+    color: white;
+}
+/* ------------------- Footer-area end------------------ */
